@@ -1,0 +1,7 @@
+<routes>
+  <route ref="/" redirect="index.html"></route>
+</routes>
+
+<config null={true}>
+  
+</config>
