@@ -1,8 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
-  <a href="https://freeimage.host/i/L6CE5Q"><img src="https://iili.io/L6CE5Q.th.png" width="500px" height="200px" alt="L6CE5Q.th.png" border="0"></a>
+  <a href="https://freeimage.host/fr"><img src="https://iili.io/L6CE5Q.png" alt="L6CE5Q.png" border="0"></a>
 </p>
-
 <h3 align="center">Roadset</h3>
 
 <div align="center">
@@ -16,7 +15,7 @@
 
 ---
 
-<p align="center"> A powerfull, optimised, for routing system.
+<p align="center"> A powerfull, optimized, tool for routing system.
     <br> 
 </p>
 
@@ -27,8 +26,7 @@
 - [Run](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
+- [Contributing](./CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
